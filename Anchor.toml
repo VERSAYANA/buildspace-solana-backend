@@ -1,11 +1,11 @@
-[programs.localnet]
+[programs.devnet]
 myepicproject = "DAQv1quZt1MG8a9EMVZsuCqLuH7Tih6VL2eJ6WntQzM9"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/versayana/.config/solana/id.json"
 
 [scripts]
